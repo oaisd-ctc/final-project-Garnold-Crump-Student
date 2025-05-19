@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripting/WaterPlants.cs.meta
+guid: f04a4ec275ac38c41a14ecb156de5199
+========
+guid: 084b0fd52b4a3dd43af1b4afee9eca2a
+>>>>>>>> a4935559b880e02f40a8e85a5318a9da3222e7a3:Assets/Scripting/Clock.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
